@@ -9,7 +9,7 @@ return(
         <h4> {props.name.name}</h4>
         </div>
         <div className="card-body">
-        <h5>NAME OF THE COIN :{props.name.coin} </h5>
+        <h5>Coin:{props.name.coin} </h5>
         </div>
     </div>    
     
